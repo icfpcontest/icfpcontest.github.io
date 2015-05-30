@@ -5,7 +5,7 @@ description: >
   An unofficial archive of task descriptions and supporting files for past
   ICFP Programming Contests.
 url: "http://icfpcontest.github.io"
-permalink: "/:categories/:title/"
+permalink: "/:categories/:year/:title.html"
 
 #twitter_username: jekyllrb
 github_username:  icfpcontest
